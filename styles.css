@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    font-family: "Stalinist One", sans-serif;
+}
+
+.site-header{
+    background-color: bisque;
+    padding: 20px;
+}
+
+.main-content{
+    padding: 20px;
+}
+
+.site-footer{
+    background-color: darkblue;
+    color: aliceblue;
+    padding: 20px;
+}
+
+.footer-link{
+    color: aliceblue;
+}
+
+
+
+
